@@ -5,6 +5,11 @@ import { getUserLocale } from "@/actions/locale";
 import { defaultLocale, locales } from "@/i18n/config";
 import "@/app/globals.css";
 
+export const metadata = {
+  title: "Dashboard | Build with Next.js",
+  description: "A dashboard build with Next.js",
+};
+
 export default async function RootLayout({
   children,
 }: {
