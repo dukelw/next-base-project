@@ -1,0 +1,11 @@
+{
+  "home": {
+    "hello": "Hello homepage"
+  },
+  "user": {
+    "users": "Users"
+  },
+  "inventory": {
+    "inventories": "Inventories"
+  }
+}

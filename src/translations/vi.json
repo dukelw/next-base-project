@@ -1,0 +1,11 @@
+{
+  "home": {
+    "hello": "Chao trang chu"
+  },
+  "user": {
+    "users": "Nguoi dung"
+  },
+  "inventory": {
+    "inventories": "Ton kho"
+  }
+}
